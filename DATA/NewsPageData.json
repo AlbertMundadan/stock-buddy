@@ -1,0 +1,202 @@
+{
+    "technology" : {
+        "data": [
+            {
+                "uuid": "7faa67a8-dd6f-453b-be92-ebf556d82a9c",
+                "title": "Earnings call: Paylocity reports robust fiscal 2024 results, eyes growth By Investing.com",
+                "description": "Earnings call: Paylocity reports robust fiscal 2024 results, eyes growth",
+                "keywords": "",
+                "snippet": "Paylocity (NASDAQ: ) Holding Corporation (PCTY) has announced its fourth quarter and fiscal year results for 2024, showcasing significant growth. The company's ...",
+                "url": "https://www.investing.com/news/stock-market-news/earnings-call-paylocity-reports-robust-fiscal-2024-results-eyes-growth-93CH-3553440",
+                "image_url": "https://i-invdn-com.investing.com/news/LYNXMPEDAF0IH_L.jpg",
+                "language": "en",
+                "published_at": "2024-08-02T23:47:45.000000Z",
+                "source": "investing.com",
+                "relevance_score": null,
+                "entities": [],
+                "similar": []
+            },
+            {
+                "uuid": "3463e17d-c658-4f4e-b8c6-dbf69ca12cbc",
+                "title": "Earnings call: Corsair Gaming reported a net revenue drop to $261.3 million By Investing.com",
+                "description": "Earnings call: Corsair Gaming reported a net revenue drop to $261.3 million",
+                "keywords": "",
+                "snippet": "Corsair Gaming, Inc. (CRSR) reported a mixed financial performance for the second quarter of 2024. The company faced weaker-than-expected results due to a decli...",
+                "url": "https://www.investing.com/news/stock-market-news/earnings-call-corsair-gaming-reported-a-net-revenue-drop-to-2613-million-93CH-3553437",
+                "image_url": "https://i-invdn-com.investing.com/news/LYNXMPED0C0KP_L.jpg",
+                "language": "en",
+                "published_at": "2024-08-02T23:45:11.000000Z",
+                "source": "investing.com",
+                "relevance_score": null,
+                "entities": [],
+                "similar": []
+            },
+            {
+                "uuid": "096cd154-4c5d-4008-991f-66aa3be3c8be",
+                "title": "Earnings call: AES Corporation boasts solid Q2 performance and tech innovation By Investing.com",
+                "description": "Earnings call: AES Corporation boasts solid Q2 performance and tech innovation",
+                "keywords": "",
+                "snippet": "AES Corporation (NYSE: NYSE: ), a global power company, reported a robust financial performance in its second-quarter earnings call, with key figures such as ad...",
+                "url": "https://www.investing.com/news/stock-market-news/earnings-call-aes-corporation-boasts-solid-q2-performance-and-tech-innovation-93CH-3553434",
+                "image_url": "https://i-invdn-com.investing.com/news/LYNXMPEB2C0AG_L.jpg",
+                "language": "en",
+                "published_at": "2024-08-02T23:41:47.000000Z",
+                "source": "investing.com",
+                "relevance_score": null,
+                "entities": [],
+                "similar": []
+            }
+        ]
+    },
+
+    "financial" : {
+        "data": [
+            {
+              "uuid": "8df662e2-d683-4c25-b3ca-38139b9247bb",
+              "title": "Bragar Eagel & Squire, P.C. Reminds Investors That Class Action Lawsuits Have Been Filed Against CAE, Maxeon, GameStop, and MongoDB and Encourages Investors to Contact the Firm",
+              "description": "NEW YORK, Aug. 01, 2024 (GLOBE NEWSWIRE) -- Bragar Eagel & Squire, P.C., a nationally recognized shareholder rights law firm, reminds investors that...",
+              "keywords": "Bragar Eagel & Squire, CAE, Maxeon, MAXN, GameStop, GME, MongoDB, MDB, securities, class action, stockholder rights, legal, lawyer, lawsuit, litigate, complaint, invest, share, Class Action",
+              "snippet": "NEW YORK, Aug. 01, 2024 (GLOBE NEWSWIRE) -- Bragar Eagel & Squire, P.C., a nationally recognized shareholder rights law firm, reminds investors that class actio...",
+              "url": "https://www.globenewswire.com/news-release/2024/08/02/2923351/0/en/Bragar-Eagel-Squire-P-C-Reminds-Investors-That-Class-Action-Lawsuits-Have-Been-Filed-Against-CAE-Maxeon-GameStop-and-MongoDB-and-Encourages-Investors-to-Contact-the-Firm.html",
+              "image_url": "https://ml.globenewswire.com/Resource/Download/29481954-f2ff-4756-b5a9-d982a6497bd0",
+              "language": "en",
+              "published_at": "2024-08-02T01:00:00.000000Z",
+              "source": "globenewswire.com",
+              "relevance_score": null,
+              "entities": [],
+              "similar": []
+            },
+            {
+              "uuid": "39b5ccd9-4d5b-42a8-8815-9f82403fe3f2",
+              "title": "ECB's Stournaras raises risk of too low inflation, Platow reports By Reuters",
+              "description": "ECB's Stournaras raises risk of too low inflation, Platow reports",
+              "keywords": "",
+              "snippet": "FRANKFURT (Reuters) - A weak euro zone economy may drag inflation below the European Central Bank's 2% target, ECB policymaker Yannis Stournaras said in an inte...",
+              "url": "https://www.investing.com/news/economy-news/ecbs-stournaras-raises-risk-of-too-low-inflation-platow-reports-3548776",
+              "image_url": "https://i-invdn-com.investing.com/news/STOCK-EXCHANGE-RUSSIAN-TRADING-SYSTEMS_800x533_L_1414427815.jpg",
+              "language": "en",
+              "published_at": "2024-08-01T12:13:12.000000Z",
+              "source": "investing.com",
+              "relevance_score": null,
+              "entities": [],
+              "similar": []
+            },
+            {
+              "uuid": "a66c06a6-062d-47df-ab1e-e2b3f22e2bec",
+              "title": "Market News, August 2, 2024: Stocks Tumble as Jobs Report Heightens Economic Fears, Tech Rout Continues",
+              "description": "U.S. stocks closed sharply lower Friday following a weak July jobs report that underscored growing concerns about the weakening of the U.S. economy, while tech stocks reeled following disappointing earnings reports.",
+              "keywords": "",
+              "snippet": "",
+              "url": "https://www.investopedia.com/dow-jones-today-08022024-8687900",
+              "image_url": "https://www.investopedia.com/thmb/wtB2dQpUfo47icpF9yWMcF3Jhgs=/750x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/MarketBlogImage-final-6ac06c7b9250446a8e86c566b11e02e1.png",
+              "language": "en",
+              "published_at": "2024-08-02T01:00:00.000000Z",
+              "source": "investopedia.com",
+              "relevance_score": null,
+              "entities": [],
+              "similar": []
+            }
+        ]
+    },
+
+    "energy" : {
+        "data": [
+            {
+            "uuid": "ac72d766-0b19-465f-8095-094b583ecae3",
+            "title": "Insider Sale: President and CEO Bernie Wolford Sells 34,000 Shares of Diamond Offshore Drilling Inc (DO)",
+            "description": "On August 1, 2024, Bernie Wolford, President and Chief Executive Officer of Diamond Offshore Drilling Inc (DO), sold 34,000 shares of the company. The transacti",
+            "keywords": "GuruFocus, Article, News, GuruFocus Research, DO",
+            "snippet": "On August 1, 2024, Bernie Wolford, President and Chief Executive Officer of Diamond Offshore Drilling Inc (DO, Financial), sold 34,000 shares of the company. Th...",
+            "url": "https://www.gurufocus.com/news/2491366/insider-sale-president-and-ceo-bernie-wolford-sells-34000-shares-of-diamond-offshore-drilling-inc-do",
+            "image_url": "https://static.gurufocus.com/images/global_logo_twitter_card.png",
+            "language": "en",
+            "published_at": "2024-08-02T23:02:16.000000Z",
+            "source": "gurufocus.com",
+            "relevance_score": null,
+            "entities": [],
+            "similar": []
+            },
+            {
+            "uuid": "83f552cc-aeef-43a6-a9f7-477a642d8e44",
+            "title": "Earnings call: Enbridge raises 2024 EBITDA forecast on strong Q2 results By Investing.com",
+            "description": "Earnings call: Enbridge raises 2024 EBITDA forecast on strong Q2 results",
+            "keywords": "",
+            "snippet": "Enbridge Inc. (NYSE: ), a leader in energy transportation, has announced a positive shift in its financial outlook during the Second Quarter 2024 Financial Resu...",
+            "url": "https://www.investing.com/news/stock-market-news/earnings-call-enbridge-raises-2024-ebitda-forecast-on-strong-q2-results-93CH-3553360",
+            "image_url": "https://i-invdn-com.investing.com/news/LYNXNPEC0D0AP_L.jpg",
+            "language": "en",
+            "published_at": "2024-08-02T22:27:59.000000Z",
+            "source": "investing.com",
+            "relevance_score": null,
+            "entities": [],
+            "similar": []
+            },
+            {
+            "uuid": "e5f4de33-b3fe-40f2-869f-a16ec3e64765",
+            "title": "Earnings call: Cenovus Energy hits debt target, raises production guidance By Investing.com",
+            "description": "Earnings call: Cenovus Energy hits debt target, raises production guidance",
+            "keywords": "",
+            "snippet": "Cenovus Energy Inc . (NYSE: ), a Canadian oil and gas company, announced in its latest earnings call that it has achieved a significant milestone by reaching it...",
+            "url": "https://www.investing.com/news/stock-market-news/earnings-call-cenovus-energy-hits-debt-target-raises-production-guidance-93CH-3553355",
+            "image_url": "https://i-invdn-com.investing.com/news/Crudeoil_800x533_L_1629277574.jpg",
+            "language": "en",
+            "published_at": "2024-08-02T22:25:14.000000Z",
+            "source": "investing.com",
+            "relevance_score": null,
+            "entities": [],
+            "similar": []
+            }
+        ]
+    },
+
+    "healthcare" : {
+        "data": [
+            {
+            "uuid": "7d80c0c6-1615-40b0-968d-ec5559ed7e67",
+            "title": "Medpace Holdings (MEDP) Reveals “Shocking” Bookings Miss, Shares Fall - Hagens Berman",
+            "description": "SAN FRANCISCO, Aug. 02, 2024 (GLOBE NEWSWIRE) -- Hagens Berman urges Medpace Holdings, Inc. (NASDAQ: MEDP) investors who suffered substantial losses to...",
+            "keywords": "Hagens Berman Sobol Shapiro LLP, Class Action",
+            "snippet": "SAN FRANCISCO, Aug. 02, 2024 (GLOBE NEWSWIRE) -- Hagens Berman urges Medpace Holdings, Inc. (NASDAQ: MEDP) investors who suffered substantial losses to submit y...",
+            "url": "https://www.globenewswire.com/news-release/2024/08/02/2923887/32716/en/Medpace-Holdings-MEDP-Reveals-Shocking-Bookings-Miss-Shares-Fall-Hagens-Berman.html",
+            "image_url": "https://ml.globenewswire.com/Resource/Download/51670c91-d369-4a8c-8102-d393de9f6d19",
+            "language": "en",
+            "published_at": "2024-08-02T23:46:00.000000Z",
+            "source": "globenewswire.com",
+            "relevance_score": null,
+            "entities": [],
+            "similar": []
+            },
+            {
+            "uuid": "3c8e2858-9db7-44e4-a3ef-f61548541475",
+            "title": "Earnings call: REGENXBIO reports progress in gene therapy programs By Investing.com",
+            "description": "Earnings call: REGENXBIO reports progress in gene therapy programs",
+            "keywords": "",
+            "snippet": "REGENXBIO Inc. (RGNX), a biotechnology company focusing on the development of gene therapies, has announced updates on its pipeline during its Q2 2024 earnings ...",
+            "url": "https://www.investing.com/news/stock-market-news/earnings-call-regenxbio-reports-progress-in-gene-therapy-programs-93CH-3553428",
+            "image_url": "https://i-invdn-com.investing.com/news/LYNXNPEC180BO_L.jpg",
+            "language": "en",
+            "published_at": "2024-08-02T23:37:29.000000Z",
+            "source": "investing.com",
+            "relevance_score": null,
+            "entities": [],
+            "similar": []
+            },
+            {
+            "uuid": "0f16e185-a2b0-4abf-8974-7f36ca9fd837",
+            "title": "Earnings call: Rapid Micro Biosystems surpassed their own guidance with a 32% increase in total revenue By Investing.com",
+            "description": "Earnings call: Rapid Micro Biosystems surpassed their own guidance with a 32% increase in total revenue",
+            "keywords": "",
+            "snippet": "Rapid Micro Biosystems (RPID: RMBI), a company specializing in automated microbial quality control testing, has reported robust financial results for the second...",
+            "url": "https://www.investing.com/news/stock-market-news/earnings-call-rapid-micro-biosystems-surpassed-their-own-guidance-with-a-32-increase-in-total-revenue-93CH-3553398",
+            "image_url": "https://i-invdn-com.investing.com/news/LYNXNPEB6R0AQ_L.jpg",
+            "language": "en",
+            "published_at": "2024-08-02T23:14:48.000000Z",
+            "source": "investing.com",
+            "relevance_score": null,
+            "entities": [],
+            "similar": []
+            }
+        ]
+    }
+
+}
