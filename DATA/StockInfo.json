@@ -1,0 +1,225 @@
+{
+  "INTC": {
+    "quote": [
+      {
+        "symbol": "INTC",
+        "name": "Intel Corporation",
+        "price": 21.48,
+        "changesPercentage": -26.0585,
+        "change": -7.57,
+        "dayLow": 20.42,
+        "dayHigh": 21.98,
+        "yearHigh": 51.28,
+        "yearLow": 20.42,
+        "marketCap": 91440360000,
+        "priceAvg50": 31.5522,
+        "priceAvg200": 38.646,
+        "exchange": "NASDAQ",
+        "volume": 296703615,
+        "avgVolume": 47708250,
+        "open": 21.94,
+        "previousClose": 29.05,
+        "eps": 0.24,
+        "pe": 89.5,
+        "earningsAnnouncement": "2024-08-01T04:00:00.000+0000",
+        "sharesOutstanding": 4257000000,
+        "timestamp": 1722628801,
+        "description": "Intel Corporation engages in the design, manufacture, and sale of computer products and technologies worldwide. The company operates through CCG, DCG, IOTG, Mobileye, NSG, PSG, and All Other segments. It offers platform products, such as central processing units and chipsets, and system-on-chip and multichip packages; and non-platform or adjacent products, including accelerators, boards and systems, connectivity products, graphics, and memory and storage products. The company also provides high-performance compute solutions for targeted verticals and embedded applications for retail, industrial, and healthcare markets; and solutions for assisted and autonomous driving comprising compute platforms, computer vision and machine learning-based sensing, mapping and localization, driving policy, and active sensors. In addition, it offers workload-optimized platforms and related products for cloud service providers, enterprise and government, and communications service providers. The company serves original equipment manufacturers, original design manufacturers, and cloud service providers. Intel Corporation has a strategic partnership with MILA to develop and apply advances in artificial intelligence methods for enhancing the search in the space of drugs. The company was incorporated in 1968 and is headquartered in Santa Clara, California.",
+        "ceo": "Mr. Patrick P. Gelsinger",
+        "sector": "Technology"
+      }
+    ]
+  },
+
+  "AAPL": {
+    "quote": [
+      {
+        "symbol": "AAPL",
+        "name": "Apple Inc.",
+        "price": 219.86,
+        "changesPercentage": 0.6869,
+        "change": 1.5,
+        "dayLow": 217.71,
+        "dayHigh": 225.6,
+        "yearHigh": 237.23,
+        "yearLow": 164.08,
+        "marketCap": 3371355226000,
+        "priceAvg50": 212.0492,
+        "priceAvg200": 189.31586,
+        "exchange": "NASDAQ",
+        "volume": 96347895,
+        "avgVolume": 66627450,
+        "open": 219.15,
+        "previousClose": 218.36,
+        "eps": 6.57,
+        "pe": 33.46,
+        "earningsAnnouncement": "2024-10-31T00:00:00.000+0000",
+        "sharesOutstanding": 15334100000,
+        "timestamp": 1722628802,
+        "description": "Apple Inc. designs, manufactures, and markets smartphones, personal computers, tablets, wearables, and accessories worldwide. The company offers iPhone, a line of smartphones; Mac, a line of personal computers; iPad, a line of multi-purpose tablets; and wearables, home, and accessories comprising AirPods, Apple TV, Apple Watch, Beats products, and HomePod. It also provides AppleCare support and cloud services; and operates various platforms, including the App Store that allow customers to discover and download applications and digital content, such as books, music, video, games, and podcasts. In addition, the company offers various services, such as Apple Arcade, a game subscription service; Apple Fitness+, a personalized fitness service; Apple Music, which offers users a curated listening experience with on-demand radio stations; Apple News+, a subscription news and magazine service; Apple TV+, which offers exclusive original content; Apple Card, a co-branded credit card; and Apple Pay, a cashless payment service, as well as licenses its intellectual property. The company serves consumers, and small and mid-sized businesses; and the education, enterprise, and government markets. It distributes third-party applications for its products through the App Store. The company also sells its products through its retail and online stores, and direct sales force; and third-party cellular network carriers, wholesalers, retailers, and resellers. Apple Inc. was incorporated in 1977 and is headquartered in Cupertino, California.",
+        "ceo": "Mr. Timothy D. Cook",
+        "sector": "Technology"
+      }
+    ]
+  },
+
+  "AMZN": {
+    "quote": [
+      {
+        "symbol": "AMZN",
+        "name": "Amazon.com, Inc.",
+        "price": 167.9,
+        "changesPercentage": -8.7847,
+        "change": -16.17,
+        "dayLow": 160.55,
+        "dayHigh": 168.77,
+        "yearHigh": 201.2,
+        "yearLow": 118.35,
+        "marketCap": 1747268140000,
+        "priceAvg50": 187.1002,
+        "priceAvg200": 168.3578,
+        "exchange": "NASDAQ",
+        "volume": 137413334,
+        "avgVolume": 40201703,
+        "open": 166.75,
+        "previousClose": 184.07,
+        "eps": 3.57,
+        "pe": 47.03,
+        "earningsAnnouncement": "2024-08-01T04:00:00.000+0000",
+        "sharesOutstanding": 10406600000,
+        "timestamp": 1722628801,
+        "description": "Amazon.com, Inc. engages in the retail sale of consumer products and subscriptions through online and physical stores in North America and internationally. The company operates through three segments: North America, International, and Amazon Web Services (AWS). Its products offered through its stores include merchandise and content purchased for resale; and products offered by third-party sellers The company also manufactures and sells electronic devices, including Kindle, Fire tablets, Fire TVs, Rings, Blink, eero, and Echo; and develops and produces media content. In addition, it offers programs that enable sellers to sell their products in its stores; and programs that allow authors, musicians, filmmakers, Twitch streamers, skill and app developers, and others to publish and sell content. Further, the company provides compute, storage, database, analytics, machine learning, and other services, as well as fulfillment, advertising, and digital content subscriptions. Additionally, it offers Amazon Prime, a membership program. The company serves consumers, sellers, developers, enterprises, content creators, and advertisers. Amazon.com, Inc. was incorporated in 1994 and is headquartered in Seattle, Washington.",
+        "ceo": "Mr. Andrew R. Jassy",
+        "sector": "Consumer Cyclical"
+      }
+    ]
+  },
+
+  "NVDA": {
+    "quote": [
+      {
+        "symbol": "NVDA",
+        "name": "NVIDIA Corporation",
+        "price": 107.27,
+        "changesPercentage": -1.7764,
+        "change": -1.94,
+        "dayLow": 101.37,
+        "dayHigh": 108.72,
+        "yearHigh": 140.76,
+        "yearLow": 39.23,
+        "marketCap": 2638842000000,
+        "priceAvg50": 120.15892,
+        "priceAvg200": 80.24294,
+        "exchange": "NASDAQ",
+        "volume": 468246754,
+        "avgVolume": 372216693,
+        "open": 103.76,
+        "previousClose": 109.21,
+        "eps": 1.71,
+        "pe": 62.73,
+        "earningsAnnouncement": "2024-08-28T20:00:00.000+0000",
+        "sharesOutstanding": 24600000000,
+        "timestamp": 1722628800,
+        "description": "NVIDIA Corporation provides graphics, and compute and networking solutions in the United States, Taiwan, China, and internationally. The company's Graphics segment offers GeForce GPUs for gaming and PCs, the GeForce NOW game streaming service and related infrastructure, and solutions for gaming platforms; Quadro/NVIDIA RTX GPUs for enterprise workstation graphics; vGPU software for cloud-based visual and virtual computing; automotive platforms for infotainment systems; and Omniverse software for building 3D designs and virtual worlds. Its Compute & Networking segment provides Data Center platforms and systems for AI, HPC, and accelerated computing; Mellanox networking and interconnect solutions; automotive AI Cockpit, autonomous driving development agreements, and autonomous vehicle solutions; cryptocurrency mining processors; Jetson for robotics and other embedded platforms; and NVIDIA AI Enterprise and other software. The company's products are used in gaming, professional visualization, datacenter, and automotive markets. NVIDIA Corporation sells its products to original equipment manufacturers, original device manufacturers, system builders, add-in board manufacturers, retailers/distributors, independent software vendors, Internet and cloud service providers, automotive manufacturers and tier-1 automotive suppliers, mapping companies, start-ups, and other ecosystem participants. It has a strategic collaboration with Kroger Co. NVIDIA Corporation was incorporated in 1993 and is headquartered in Santa Clara, California.",
+        "ceo": "Mr. Jen-Hsun  Huang",
+        "sector": "Technology"
+      }
+    ]
+  },
+
+  "MSFT": {
+    "quote": [
+      {
+        "symbol": "MSFT",
+        "name": "Microsoft Corporation",
+        "price": 408.49,
+        "changesPercentage": -2.0666,
+        "change": -8.62,
+        "dayLow": 404.34,
+        "dayHigh": 415,
+        "yearHigh": 468.35,
+        "yearLow": 309.45,
+        "marketCap": 3036322509600,
+        "priceAvg50": 438.9816,
+        "priceAvg200": 403.44064,
+        "exchange": "NASDAQ",
+        "volume": 29170678,
+        "avgVolume": 19122219,
+        "open": 412.49,
+        "previousClose": 417.11,
+        "eps": 11.8,
+        "pe": 34.62,
+        "earningsAnnouncement": "2024-10-22T00:00:00.000+0000",
+        "sharesOutstanding": 7433040000,
+        "timestamp": 1722628801,
+        "description": "Microsoft Corporation develops, licenses, and supports software, services, devices, and solutions worldwide. The company operates in three segments: Productivity and Business Processes, Intelligent Cloud, and More Personal Computing. The Productivity and Business Processes segment offers Office, Exchange, SharePoint, Microsoft Teams, Office 365 Security and Compliance, Microsoft Viva, and Skype for Business; Skype, Outlook.com, OneDrive, and LinkedIn; and Dynamics 365, a set of cloud-based and on-premises business solutions for organizations and enterprise divisions. The Intelligent Cloud segment licenses SQL, Windows Servers, Visual Studio, System Center, and related Client Access Licenses; GitHub that provides a collaboration platform and code hosting service for developers; Nuance provides healthcare and enterprise AI solutions; and Azure, a cloud platform. It also offers enterprise support, Microsoft consulting, and nuance professional services to assist customers in developing, deploying, and managing Microsoft server and desktop solutions; and training and certification on Microsoft products. The More Personal Computing segment provides Windows original equipment manufacturer (OEM) licensing and other non-volume licensing of the Windows operating system; Windows Commercial, such as volume licensing of the Windows operating system, Windows cloud services, and other Windows commercial offerings; patent licensing; and Windows Internet of Things. It also offers Surface, PC accessories, PCs, tablets, gaming and entertainment consoles, and other devices; Gaming, including Xbox hardware, and Xbox content and services; video games and third-party video game royalties; and Search, including Bing and Microsoft advertising. The company sells its products through OEMs, distributors, and resellers; and directly through digital marketplaces, online stores, and retail stores. Microsoft Corporation was founded in 1975 and is headquartered in Redmond, Washington.",
+        "ceo": "Mr. Satya  Nadella",
+        "sector": "Technology"
+      }
+    ]
+  },
+
+  "META": {
+    "quote": [
+      {
+        "symbol": "META",
+        "name": "Meta Platforms, Inc.",
+        "price": 488.14,
+        "changesPercentage": -1.9287,
+        "change": -9.6,
+        "dayLow": 476.1501,
+        "dayHigh": 501.145,
+        "yearHigh": 542.81,
+        "yearLow": 274.38,
+        "marketCap": 1238183792185,
+        "priceAvg50": 492.1032,
+        "priceAvg200": 432.69205,
+        "exchange": "NASDAQ",
+        "volume": 22787371,
+        "avgVolume": 13562508,
+        "open": 489,
+        "previousClose": 497.74,
+        "eps": 19.54,
+        "pe": 24.98,
+        "earningsAnnouncement": "2024-10-23T00:00:00.000+0000",
+        "sharesOutstanding": 2536534175,
+        "timestamp": 1722628801,
+        "description": "Meta Platforms, Inc. engages in the development of products that enable people to connect and share with friends and family through mobile devices, personal computers, virtual reality headsets, and wearables worldwide. It operates in two segments, Family of Apps and Reality Labs. The Family of Apps segment offers Facebook, which enables people to share, discuss, discover, and connect with interests; Instagram, a community for sharing photos, videos, and private messages, as well as feed, stories, reels, video, live, and shops; Messenger, a messaging application for people to connect with friends, family, communities, and businesses across platforms and devices through text, audio, and video calls; and WhatsApp, a messaging application that is used by people and businesses to communicate and transact privately. The Reality Labs segment provides augmented and virtual reality related products comprising consumer hardware, software, and content that help people feel connected, anytime, and anywhere. The company was formerly known as Facebook, Inc. and changed its name to Meta Platforms, Inc. in October 2021. Meta Platforms, Inc. was incorporated in 2004 and is headquartered in Menlo Park, California.",
+        "ceo": "Mr. Mark Elliot Zuckerberg",
+        "sector": "Communication Services"
+      }
+    ]
+  },
+
+  "GOOG": {
+    "quote": [
+      {
+        "symbol": "GOOG",
+        "name": "Alphabet Inc.",
+        "price": 168.4,
+        "changesPercentage": -2.3485,
+        "change": -4.05,
+        "dayLow": 166.39,
+        "dayHigh": 170.21,
+        "yearHigh": 193.31,
+        "yearLow": 121.46,
+        "marketCap": 2061905610798,
+        "priceAvg50": 179.9656,
+        "priceAvg200": 154.35745,
+        "exchange": "NASDAQ",
+        "volume": 18674049,
+        "avgVolume": 17303703,
+        "open": 168.19,
+        "previousClose": 172.45,
+        "eps": 6.97,
+        "pe": 24.16,
+        "earningsAnnouncement": "2024-10-22T04:00:00.000+0000",
+        "sharesOutstanding": 12241266945,
+        "timestamp": 1722628801,
+        "description": "Alphabet Inc. offers various products and platforms in the United States, Europe, the Middle East, Africa, the Asia-Pacific, Canada, and Latin America. It operates through Google Services, Google Cloud, and Other Bets segments. The Google Services segment provides products and services, including ads, Android, Chrome, devices, Gmail, Google Drive, Google Maps, Google Photos, Google Play, Search, and YouTube. It is also involved in the sale of apps and in-app purchases and digital content in the Google Play and YouTube; and devices, as well as in the provision of YouTube consumer subscription services. The Google Cloud segment offers infrastructure, cybersecurity, databases, analytics, AI, and other services; Google Workspace that include cloud-based communication and collaboration tools for enterprises, such as Gmail, Docs, Drive, Calendar, and Meet; and other services for enterprise customers. The Other Bets segment sells healthcare-related and internet services. The company was incorporated in 1998 and is headquartered in Mountain View, California.",
+        "ceo": "Mr. Sundar  Pichai",
+        "sector": "Communication Services"
+      }
+    ]
+  }
+}
