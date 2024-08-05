@@ -1,5 +1,5 @@
 import React from 'react'
-import { Route, createBrowserRouter, createRoutesFromElements, RouterProvider } from 'react-router-dom'
+import { Route, createHashRouter, createRoutesFromElements, RouterProvider } from 'react-router-dom'
 import StockPage from './pages/StockPage.jsx'
 import NewsPage from './pages/NewsPage.jsx'
 import NotFound from './pages/NotFound.jsx'
@@ -7,7 +7,7 @@ import WatchListPage from './pages/WatchListPage.jsx'
 
 
 
-const router = createBrowserRouter(createRoutesFromElements(
+const router = createHashRouter(createRoutesFromElements(
   <>
     <Route index element={<StockPage />}/>
     <Route path='/news' element={<NewsPage/>}/>

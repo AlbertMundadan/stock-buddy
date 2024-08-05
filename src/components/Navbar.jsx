@@ -1,5 +1,4 @@
-import { Link } from "react-router-dom";
-import { Bars3Icon, BellIcon, XMarkIcon } from "@heroicons/react/24/outline";
+import { Bars3Icon, XMarkIcon } from "@heroicons/react/24/outline";
 import Searchbar from "./Searchbar";
 import Logo from "./Logo"
 import {
@@ -10,9 +9,9 @@ import {
 
 
 const navigation = [
-  { name: "Watchlist", href: "/watchlist", current: false },
-  { name: "News", href: "/news", current: false },
-  { name: "Home", href: "/", current: false }
+  { name: "Watchlist", href: "#/watchlist", current: false },
+  { name: "News", href: "#/news", current: false },
+  { name: "Home", href: "#/", current: false }
 ];
 
 function classNames(...classes) {

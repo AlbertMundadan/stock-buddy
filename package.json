@@ -1,8 +1,8 @@
 {
-  "homepage": "https://albertmundadan.github.io/stock-buddy",
-  "name": "stock_buddy_main",
+  "homepage": "https://albertmundadan.github.io/stock-buddy/",
+  "name": "stock_buddy",
   "private": false,
-  "version": "0.0.0",
+  "version": "1.0.0",
   "type": "module",
   "scripts": {
     "dev": "vite",
