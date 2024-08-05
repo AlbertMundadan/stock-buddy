@@ -189,5 +189,37 @@
         "sector": "Communication Services"
       }
     ]
+  },
+
+  "GOOG": {
+    "quote": [
+      {
+        "symbol": "GOOG",
+        "name": "Alphabet Inc.",
+        "price": 168.4,
+        "changesPercentage": -2.3485,
+        "change": -4.05,
+        "dayLow": 166.39,
+        "dayHigh": 170.21,
+        "yearHigh": 193.31,
+        "yearLow": 121.46,
+        "marketCap": 2061905610798,
+        "priceAvg50": 179.9656,
+        "priceAvg200": 154.35745,
+        "exchange": "NASDAQ",
+        "volume": 18674049,
+        "avgVolume": 17303703,
+        "open": 168.19,
+        "previousClose": 172.45,
+        "eps": 6.97,
+        "pe": 24.16,
+        "earningsAnnouncement": "2024-10-22T04:00:00.000+0000",
+        "sharesOutstanding": 12241266945,
+        "timestamp": 1722628801,
+        "description": "Alphabet Inc. offers various products and platforms in the United States, Europe, the Middle East, Africa, the Asia-Pacific, Canada, and Latin America. It operates through Google Services, Google Cloud, and Other Bets segments. The Google Services segment provides products and services, including ads, Android, Chrome, devices, Gmail, Google Drive, Google Maps, Google Photos, Google Play, Search, and YouTube. It is also involved in the sale of apps and in-app purchases and digital content in the Google Play and YouTube; and devices, as well as in the provision of YouTube consumer subscription services. The Google Cloud segment offers infrastructure, cybersecurity, databases, analytics, AI, and other services; Google Workspace that include cloud-based communication and collaboration tools for enterprises, such as Gmail, Docs, Drive, Calendar, and Meet; and other services for enterprise customers. The Other Bets segment sells healthcare-related and internet services. The company was incorporated in 1998 and is headquartered in Mountain View, California.",
+        "ceo": "Mr. Sundar  Pichai",
+        "sector": "Communication Services"
+      }
+    ]
   }
 }
