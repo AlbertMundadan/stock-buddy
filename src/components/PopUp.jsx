@@ -16,8 +16,8 @@ export default function PopUp() {
   return (
     <>
       <Dialog open={isOpen} as="div" className="relative z-10 focus:outline-none" onClose={close}>
-        <div className="fixed inset-0 z-10 w-screen overflow-y-auto mx-28">
-          <div className="flex my-40 mx-40 items-center justify-center p-4">
+        <div className="fixed sm:w-full inset-0 z-10 w-screen overflow-y-auto md:mx-28">
+          <div className="flex tiny:my-24 tiny:mx-10 sm:my-40 xl:mx-40 items-center justify-center sm:p-4">
             <DialogPanel
               transition
               className=" rounded-xl bg-white/5 p-7 backdrop-blur-2xl duration-300 ease-out data-[closed]:transform-[scale(95%)] data-[closed]:opacity-0"

@@ -16,7 +16,7 @@ const Searchbar = () => {
   return (
     <>
 
-<form className="w-3/6 max-w-xl px-5 ml-5 justify-center  mr-40 grow" method="post" onSubmit={handleSearch}>   
+<form className="tiny:w-4/5 sm:w-3/6 max-w-xl px-5 ml-5 justify-center  sm:mr-40 grow" method="post" onSubmit={handleSearch}>   
     <label htmlFor="default-search" className="mb-2 text-sm font-medium text-gray-900 sr-only dark:text-white">Search</label>
     <div className="relative">
         <div className="absolute inset-y-0 start-0 flex items-center ps-3 pointer-events-none">

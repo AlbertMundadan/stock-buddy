@@ -1,4 +1,4 @@
-import { json, useParams } from "react-router-dom"
+import { useParams } from "react-router-dom"
 import { useState, useEffect } from "react"
 import Navbar from "../components/Navbar"
 import BarWatchlist from "../components/BarWatchlist"
@@ -23,9 +23,9 @@ const StockPage = () => {
         <Navbar/>
         <div className="flex justify-start ">
             <BarWatchlist/>
-            <div className="min-w-92 w-4/5 max-w-full h-184 mx-3 mt-4">
+            <div className="min-w-92 lg:w-4/5 w-full max-w-full h-184 mx-3 mt-4">
                 <div className=" w-full h-100 rounded-2xl mb-3">
-                    <h1 className="text-gray-600 text-3xl font-francois flex justify-center py-48 ">Search by Stock Ticker For Info...</h1>
+                    <h1 className="text-gray-600 text-3xl font-francois flex justify-center px-8 py-48 ">Search by Stock Ticker For Info...</h1>
                     
                 </div>
             </div>

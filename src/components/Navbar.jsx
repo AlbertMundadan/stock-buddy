@@ -79,7 +79,7 @@ export default function Navbar() {
                 <DisclosureButton
                   key={item.name}
                   as="a"
-                  to={item.href}
+                  href={item.href}
                   className={classNames(
                     item.current
                       ? "bg-gray-900 text-white"
