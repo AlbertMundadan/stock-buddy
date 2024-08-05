@@ -1,7 +1,7 @@
 const RightStockBar = ({open, mktCap, high, low, pe, volume, eps, yHigh, yLow, p50avg, p200avg, sector}) => {
   return (
     <div className="min-w-72 h-184 mt-4 me-3">
-          <div className="backdrop-blur-3xl bg-gray-950/40 w-full h-60 py-1 px-2 mb-3 rounded-2xl shadow-lg border-slate-900 border-2">
+          <div className="backdrop-blur-3xl bg-gray-950/40 w-full h-fit py-1 px-2 mb-3 rounded-2xl shadow-lg border-slate-900 border-2">
         <div className="text-white font-francois text-3xl mb-2">
             Daily Info
         </div>
