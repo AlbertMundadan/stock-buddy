@@ -2,6 +2,7 @@ import React, { useEffect, useState } from "react";
 import { returnWatchlistData } from "../API/WatchlistCall"; 
 import { WatchAreaGraph } from "./WatchAreaGraph";
 import LoadingCard from "../components/LoadingCard"
+import { Link } from "react-router-dom";
 
 function WatchlistCardPage({ticker}) {
     const [isLoading, setLoading] = useState(true); // Loading state
@@ -46,7 +47,9 @@ function WatchlistCardPage({ticker}) {
       <div className="flex justify-center">
           <div className="backdrop-blur-3xl  bg-white/5 w-72 h-48  mt-2.5 py-1 px-2  rounded-2xl font-francois">
             <div className="text-neutral-50 text-2xl flex justify-between" >
+            <Link to={`/${ticker}`}>
               <div>{ticker}</div>
+              </Link>
               <div>${data['price'].toFixed(2)}</div>
             </div>
             <div className="text-lg">
