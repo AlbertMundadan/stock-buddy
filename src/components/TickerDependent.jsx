@@ -6,7 +6,7 @@ import Loading from "./Loading";
 
 
 
-function TickerDependent({ticker, dates}) {
+function TickerDependent({ticker}) {
     const [isLoading, setLoading] = useState(true); // Loading state
     const [price, setPrice] = useState();
     const [change, setChange] = useState();
@@ -112,7 +112,7 @@ function TickerDependent({ticker, dates}) {
   }
     return (
       <>
-        <CenterSection ticker = {ticker} name={name} price={price} change={change} dates={dates} description={description}/>
+        <CenterSection ticker = {ticker} name={name} price={price} change={change} description={description}/>
         <div className="hidden semi:block"> 
           <RightStockBar open = {open} mktCap={mktCap} high={high} low={low} pe={pe} volume={volume} 
           eps={eps} yHigh={yhigh} yLow={ylow} p50avg={p50avg} p200avg={p200avg} sector={sector}/>

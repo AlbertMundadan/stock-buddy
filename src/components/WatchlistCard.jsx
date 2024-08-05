@@ -4,7 +4,7 @@ import { WatchAreaGraph } from "./WatchAreaGraph";
 import LoadingCard from "../components/LoadingCard"
 import { Link } from "react-router-dom";
 
-function WatchlistCard({ticker, dates}) {
+function WatchlistCard({ticker}) {
     const [isLoading, setLoading] = useState(true); // Loading state
     const [data, setData] = useState(); // Data state
     const [error, setError] = useState(false);
@@ -23,7 +23,7 @@ function WatchlistCard({ticker, dates}) {
         };
     
         fetchData();
-      }, [ticker, dates]);
+      }, [ticker]);
  
     if (isLoading) {
         return (
