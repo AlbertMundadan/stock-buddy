@@ -40,7 +40,7 @@ export default function Navbar() {
               <div className="flex flex-1 items-center justify-center  sm:justify-start">
                 <div className='invisible lg:visible'>
                   <a
-                    href="/">
+                    href="#/">
                     <Logo/>
 
                   </a>
