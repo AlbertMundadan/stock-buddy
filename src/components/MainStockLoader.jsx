@@ -188,18 +188,6 @@ function MainStockLoader({name, ticker, dchange, price, description}) {
 
         <div className="pr-3 mt-4 flex">
           {result[2]}
-          {/* <div className="hidden tiny:block sm:hidden">
-          <div className="flex me-2 mb ml-auto justify-end">
-            <TabGroup>
-                <Tab value="D" onClick={()=> setSelectGraph('D')}>1 Day</Tab>
-                <Tab value="W" onClick={()=> setSelectGraph('W')}>1 Week</Tab>
-                <Tab value="M" onClick={()=> setSelectGraph('M')}>1 Month</Tab>
-                <Tab value="Y" onClick={()=> setSelectGraph('Y')}>1 Year</Tab>
-                <Tab value="YY" onClick={()=> setSelectGraph('YY')}>5 Years</Tab>
-            </TabGroup>
-          </div>
-        </div> */}
-
         </div>
           <div className="my-3 pt px-3">
           <div className="text-slate-400 text-md font-forum ">
